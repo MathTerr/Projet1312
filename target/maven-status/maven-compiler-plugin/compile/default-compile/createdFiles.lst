@@ -1,0 +1,5 @@
+org\formation\spring\report\HTMLReportGenerator.class
+org\formation\spring\report\IReportGenerator.class
+org\formation\spring\report\PDFReportGenerator.class
+org\formation\spring\service\ReportService.class
+org\formation\spring\test\Test_TP1.class
